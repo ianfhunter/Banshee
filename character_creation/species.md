@@ -1,1 +1,3 @@
 - Humanoid
+- Beastial
+- Primal
