@@ -1,3 +1,5 @@
 - Humanoid
 - Beastial
 - Primal
+- Shifting
+- Undead
