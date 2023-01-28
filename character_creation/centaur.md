@@ -1,3 +1,9 @@
+---
+Title: Centaur
+category: default-races
+order: 1
+---
+
 # Centaur
 
 <!-- short description -->
