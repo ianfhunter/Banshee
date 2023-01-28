@@ -1,6 +1,6 @@
 ---
 Title: Centaur
-category: default-races
+category: default-species
 order: 1
 ---
 
@@ -24,7 +24,7 @@ Beings with the upper body of a human and the lower body and legs of a horse.
 
 ### Natural Abilities
 
-**Affinity:** Nature
+**Affinity:** Nature, Water
 
 **Attack: Kick**
 
