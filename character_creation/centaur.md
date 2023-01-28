@@ -24,7 +24,7 @@ Beings with the upper body of a human and the lower body and legs of a horse.
 
 ### Natural Abilities
 
-**Affinity:** Nature, Water
+**Affinity:** Nature, Forest 
 
 **Attack: Kick**
 
