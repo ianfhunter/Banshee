@@ -1,5 +1,5 @@
 ---
-title: Generic Culture - Fighting
+title: Warriors
 category: Generic Cultures
 ---
 
