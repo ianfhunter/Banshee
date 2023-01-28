@@ -3,6 +3,9 @@ title: BansheeRPG
 
 author: Ian Hunter
 
+url: https://www.ianhunter.ie
+baseurl: BansheeRPG
+
 description: An Open-source TTRPG
 
 remote_theme: pages-themes/cayman@v0.2.0
@@ -13,4 +16,4 @@ plugins:
 collections:
   doc:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:categories/:name
