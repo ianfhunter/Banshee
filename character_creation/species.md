@@ -41,12 +41,7 @@ These can be both a blessing and a curse, as they simply mean more or less effec
 > These can be switched with other species similar to the Mental features. In addition, there are several generic cultures you could choose.
 
 
+# Templates
 
-# Default Species
-<ul>
-    {% for doc in site.docs %}
-      {% if doc.category == "default-species" %}
-        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+Templates are generally changes to existing characters with established backgrounds. As such, most things stay the same, but there are some key changes
+We recommend only using these for story reasons.
