@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+category: root
 ---
 
 The main page.
