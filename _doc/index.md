@@ -1,6 +1,6 @@
 ---
 title: BansheeRPG 
-category: AAA - Start Here
+category: Homepage
 order: 0
 ---
 
