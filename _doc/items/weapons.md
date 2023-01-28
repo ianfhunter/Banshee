@@ -19,8 +19,14 @@ category: items
 
 ## Daggers
 
+
 ## Snares
 - Nets
 - Lassoos
 - Whips 
 - Bolas
+
+# Martial Arts
+- Punching
+- Kicking
+- Wrestling
