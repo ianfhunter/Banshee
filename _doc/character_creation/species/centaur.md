@@ -6,6 +6,8 @@ order: 1
 
 # Centaur
 
+<img src="/assets/centaur.png" />
+
 <!-- short description -->
 Beings with the upper body of a human and the lower body and legs of a horse.
 
