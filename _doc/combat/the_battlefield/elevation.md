@@ -1,6 +1,6 @@
 ---
 title: Elevations
-category: Terrain
+category: The battlefield
 ---
 
 
