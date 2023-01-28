@@ -17,3 +17,10 @@ collections:
   doc:
     output: true
     permalink: /:collection/:categories/:name
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
