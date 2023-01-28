@@ -13,3 +13,4 @@ plugins:
 collections:
   doc:
     output: true
+    permalink: /:collection/:name
