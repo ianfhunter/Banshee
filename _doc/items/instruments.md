@@ -30,4 +30,8 @@ Bugle
 Drums
 Castanets
 
+**Electrical**
+*Not recommended for the default setting, but included for completion.*
+- Theramin
+- Otomatone
 
