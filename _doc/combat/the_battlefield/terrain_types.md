@@ -1,6 +1,6 @@
 ---
 title: Terrain Types
-category: Terrain
+category: The Battlefield
 ---
 
 # Terrain Types
@@ -14,11 +14,11 @@ Terrain is not without its hazards.
 {:.note}
 
 
-## Mud
+## Mud, Flooded Area
 
 Slow
 
-## Ice
+## Ice, Mud
 
 Possibility of slipping
 
@@ -37,3 +37,10 @@ Only creatures capable of flight can traverse this space. Others fall to whateve
 ## Dense Crops
 
 Sight reduced to 1 cell. An action can be used if the creature posesses a slashing weapon, to expand a area of visibility equal to their reach.
+
+## Dense Foliage
+
+Impassable. An action can be used if the creature posesses a slashing weapon, to make it traversable
+
+## Water
+Only creatures capable of swimming can traverse this space. Others begin to drown
