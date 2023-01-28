@@ -1,3 +1,9 @@
+---
+Title: Selkie
+category: default-species 
+order: 3
+---
+
 # Selkie
 
 <!-- short description -->
@@ -15,7 +21,7 @@ Selkies change from seals into humans
 
 ### Natural Abilities
 
-**Affinity:** Nature
+**Affinity:** Nature, Water
 
 **Shift: Seal / Humanoid**
 
