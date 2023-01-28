@@ -16,4 +16,4 @@ plugins:
 collections:
   doc:
     output: true
-    permalink: /BansheeRPG/:collection/:categories/:name
+    permalink: /:collection/:categories/:name
