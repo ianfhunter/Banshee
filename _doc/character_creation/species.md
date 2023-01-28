@@ -1,5 +1,6 @@
 ---
 title: Species
+category: Character Creation
 ---
 
 # How it works

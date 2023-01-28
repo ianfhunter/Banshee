@@ -1,6 +1,6 @@
 ---
 Title: Skeleton
-category: default-template-species 
+category: Template Species
 order: 1
 ---
 

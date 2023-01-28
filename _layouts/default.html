@@ -3,12 +3,21 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/BansheeRPG/assets/css/styles.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap" rel="stylesheet">
+    
   </head>
   <body>
-    <div style="width:25%; display:inline-block; background-color:lightgray;">
+    <div style="width:25%; position:absolute; height: 100%; background-color:lightgray;">
       {% include sidebar.html %}
     </div>
-    <div style="margin-left:25%;display:inline-block">
+    <div style="margin-left:25%;position:absolute;padding-left: 15px;">
       {{ content }}
     </div>
   </body>

@@ -1,6 +1,6 @@
 ---
 Title: Ratfolk
-category: default-species 
+category: Species
 order: 3
 ---
 

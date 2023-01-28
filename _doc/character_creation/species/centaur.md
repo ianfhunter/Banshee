@@ -1,12 +1,12 @@
 ---
 Title: Centaur
-category: default-species
+category: Species
 order: 1
 ---
 
 # Centaur
 
-<img src="/BansheeRPG/assets/images/centaur-with-bow-vector-clipart_800.png" style="width:100px" />
+<img src="/BansheeRPG/assets/images/species/centaur.png" style="width:100px" />
 
 <!-- short description -->
 Beings with the upper body of a human and the lower body and legs of a horse.

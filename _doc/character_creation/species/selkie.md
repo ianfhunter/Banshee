@@ -1,6 +1,6 @@
 ---
 Title: Selkie
-category: default-species 
+category: Species
 order: 3
 ---
 

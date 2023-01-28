@@ -1,11 +1,11 @@
 ---
 Title: Harpy
-category: default-species
+category: Species
 order: 2
 ---
 
 # Harpy
-<img src="/BansheeRPG/assets/images/harpy.jpg" style="width:100px" />
+<img src="/BansheeRPG/assets/images/species/harpy.jpg" style="width:100px" />
 
 
 <!-- short description -->
