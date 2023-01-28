@@ -5,6 +5,8 @@ order: 2
 ---
 
 # Harpy
+<img src="/BansheeRPG/assets/images/harpy.jpg" style="width:100px" />
+
 
 <!-- short description -->
 
