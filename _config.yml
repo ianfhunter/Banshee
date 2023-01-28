@@ -4,7 +4,7 @@ title: BansheeRPG
 author: Ian Hunter
 
 url: https://www.ianhunter.ie
-baseurl: BansheeRPG
+baseurl: /BansheeRPG
 
 description: An Open-source TTRPG
 
@@ -16,4 +16,4 @@ plugins:
 collections:
   doc:
     output: true
-    permalink: /:baseurl/:collection/:categories/:name
+    permalink: /baseurl/:collection/:categories/:name
