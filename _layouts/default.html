@@ -5,7 +5,11 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    {% include sidebar.html %}
-    {{ content }}
+    <div style="width:25%">
+      {% include sidebar.html %}
+    </div>
+    <div style="margin-left:25%">
+      {{ content }}
+    </div>
   </body>
 </html>
