@@ -17,7 +17,7 @@ order: 2
 
 ### Natural Abilities
 
-**Affinity:** Wood
+**Affinity:** Nature, Air
 
 **Claws**
 **Wings**
