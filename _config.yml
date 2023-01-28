@@ -11,4 +11,5 @@ plugins:
 - jekyll-remote-them
 
 collections:
-  - doc
+  - doc:
+      output: true
