@@ -3,7 +3,6 @@
 <!-- short description -->
 Beings with the upper body of a human and the lower body and legs of a horse.
 
-
 <!-- always facing northwards -->
 ## Physical 
 **Dimensions:**
@@ -30,3 +29,6 @@ Beings with the upper body of a human and the lower body and legs of a horse.
 ## Mental
 
 **Languages:** Greek
+
+## Culture
+
