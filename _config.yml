@@ -11,4 +11,4 @@ plugins:
 - jekyll-remote-them
 
 collections:
-  - _doc
+  - doc
