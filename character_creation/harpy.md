@@ -1,3 +1,9 @@
+---
+Title: Harpy
+category: default-species
+order: 2
+---
+
 # Harpy
 
 <!-- short description -->
@@ -8,9 +14,10 @@
 [A]
 
 <!-- Sizes are calculated as if the creature is facing forward and measured breadth by depth. -->
-**Size:** 1x2
 
 ### Natural Abilities
+
+**Affinity:** Wood
 
 **Claws**
 **Wings**
