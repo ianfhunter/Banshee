@@ -1,6 +1,4 @@
----
-publish: false
----
+
 
 # BansheeRPG 
 A fully free to use RPG system. 
