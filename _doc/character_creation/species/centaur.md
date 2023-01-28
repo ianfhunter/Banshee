@@ -6,7 +6,7 @@ order: 1
 
 # Centaur
 
-<img src="/assets/images/centaur-with-bow-vector-clipart_800.png" />
+<img src="/assets/images/centaur-with-bow-vector-clipart_800.png" style="width=100px" />
 
 <!-- short description -->
 Beings with the upper body of a human and the lower body and legs of a horse.
