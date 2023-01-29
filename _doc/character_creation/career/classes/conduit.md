@@ -21,6 +21,24 @@ At each tier you gain:
 
 - An improved Channel Power  
 
+- Another improvement to Channel Power OR a subclass improvement
+> This allows players to lean into a simpler it more complex build
+
 ## Channel Power
 
 You can attack with the source of your power 
+
+You can strike at a ranged OR melee distancewith your power with a +2
+
+### Channel Power Improvements
+
+**Easier to hit** 
++1
+
+**More Range**
+Allow to strike with melee aswell as ranged, or double the range of your strike.
+
+**Elemental Affinity**
+Attune the power to an element
+
+**Increase Damage**
