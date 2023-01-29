@@ -6,7 +6,7 @@ order: 2
 
 # Levelling
 
-There are 5 Tiers of play. These tiers seperate local heroes from planar saviours.
+There are 4 Tiers of play. These tiers seperate local heroes from planar saviours.
 Within these tiers, there are 5 Levels.
 Each time a level up occurs, players may choose one of the following. They may not choose an option twice within the same tier and special rules apply to the 1at and 0th levels as described afterwards.
 
