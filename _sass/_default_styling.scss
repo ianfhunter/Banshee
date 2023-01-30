@@ -4,12 +4,17 @@
     height: -webkit-fill-available;
     overflow: scroll;
     
-    
     padding-left: 20px;
     margin-left: 0px;
     border-left: 0px;
     padding-right: 20px;
-    
+}
+
+#sidebar .rpgui-content h2{
+    text-align: left;   
+}
+#sidebar .rpgui-content ul{
+    padding-left: 0px;
 }
 
 #content{
