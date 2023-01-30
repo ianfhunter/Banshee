@@ -4,9 +4,16 @@ category: Birthright
 order: 1
 ---
 
-# How it works
+# Building Your Birthright
 
-Building your background is a multi-step process 
+You may not know it, but you were born to be a hero. Each aspect of your life up to this point has shaped you into the adventurer you are today.
+Starting from the very beginning, your birth, the community who raised you, the child you were.
+
+The 'Birthright' part of character creation consists of three core pillars:
+
+- Your physical appearance as informed by your species
+- Your mental aptitudes as informed by the social conventions in your community, or innate psychic powers
+- Your
 
 ## Physical
 > These are physical traits that most of the species are born with in the default setting. 
