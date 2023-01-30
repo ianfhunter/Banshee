@@ -3,7 +3,7 @@
 
 <h2>{{ currentCat.name | capitalize }}</h2>
       <ul>
-      {% assign items = currentCat.items | sort: 'order' %}
+      {% assign items = currentCat.items %}
       {% for item in items %}
         <li>
            <a href="{{ item.url | prepend:site.baseurl }}">{{ item.title }}</a>
