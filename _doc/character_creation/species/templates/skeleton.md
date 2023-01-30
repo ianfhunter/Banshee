@@ -6,6 +6,8 @@ order: 1
 
 # Skeleton 
 
+<img src="/BansheeRPG/assets/images/species/skeleton.png" style="width:100px" />
+
 <!-- short description -->
 Bones
 

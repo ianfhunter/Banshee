@@ -6,6 +6,10 @@ order: 1
 
 # Lycanthrope
 
+<img src="/BansheeRPG/assets/images/species/lycanthrope.png" style="width:100px" />
+
+
+
 <!-- short description -->
 Were creature 
 

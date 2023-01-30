@@ -6,6 +6,9 @@ order: 3
 
 # Ratfolk
 
+<img src="/BansheeRPG/assets/images/species/rat.png" style="width:100px" />
+
+
 <!-- short description -->
 Ratfolk are antromorphic rats
 
