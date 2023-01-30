@@ -1,5 +1,5 @@
 ---
-Title: Centaur
+Title: Human
 category: Species
 order: 1
 ---
@@ -19,9 +19,6 @@ Human
   <tr>
     <td>A</td>
   </tr>
-  <tr>
-    <td>B</td>
-  </tr>
 </table>
 
 ### Natural Abilities
@@ -29,7 +26,6 @@ Human
 **Affinity:** Civilization
 
 **Attack: Punch**
-
 
 ## Mental
 
