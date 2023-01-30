@@ -8,11 +8,6 @@ baseurl: /BansheeRPG
 
 description: An Open-source TTRPG
 
-remote_theme: pages-themes/cayman@v0.2.0
-
-plugins:
-- jekyll-remote-them
-
 collections:
   doc:
     output: true
@@ -25,13 +20,3 @@ defaults:
     values:
       layout: "default"
 
-categories-order:
- - Homepage
- - Character Creation
- - Species
- - Generic Cultures
- - Career
- - Class
- - Combatant Subclass
- - The Battlefield
- - Items
