@@ -12,6 +12,7 @@ A fully free to use Tabletop RPG system. Currently a Work In Progress.
 - Be fully free TTRPG from rules to tools.
 - Enable the spread of ideas via modular design 
 - Liberate TTRPG design knowledge
+- Have better rules for VTT vs ToM
 
 ## Licensing
 Licensed under Creative Commons CC-BY 4.0. Please only use tagged releases.
