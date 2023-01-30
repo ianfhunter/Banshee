@@ -1,5 +1,11 @@
-body{
-    /*
-font-family: 'IBM Plex Sans', sans-serif;
-    */
+#sidebar{
+    width: 25%;
+    position: absolute;
+    height: -webkit-fill-available;
+    overflow: scroll;
+}
+#content{
+    margin-left: 25%;
+    position: absolute;
+    padding-left: 15px;
 }
