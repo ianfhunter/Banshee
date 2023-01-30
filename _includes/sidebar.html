@@ -1,8 +1,9 @@
-{% assign mydocs = site.doc | group_by: 'category' %}
-{% for cat in mydocs %}
-<h2>{{ cat.name | capitalize }}</h2>
+{% for cat in site.categories-order %}
+{% assign currentCat = docs_by_category | where: 'name', cat | first %}
+
+<h2>{{ currentCat.name | capitalize }}</h2>
       <ul>
-      {% assign items = cat.items | sort: 'order' %}
+      {% assign items = currentCat.items | sort: 'order' %}
       {% for item in items %}
         <li>
            <a href="{{ item.url | prepend:site.baseurl }}">{{ item.title }}</a>
