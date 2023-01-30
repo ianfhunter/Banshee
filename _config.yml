@@ -24,5 +24,14 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      
-include: [CNAME]
+
+categories-order:
+ - Homepage
+ - Character Creation
+ - Species
+ - Generic Cultures
+ - Career
+ - Class
+ - Combatant Subclass
+ - The Battlefield
+ - Items
