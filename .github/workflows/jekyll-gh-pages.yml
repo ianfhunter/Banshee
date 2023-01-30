@@ -51,7 +51,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Upgrade Jekyll Gem
         run: |
-          apt-get install --only-upgrade ruby-full -y
+          sudo apt-get install --only-upgrade ruby-full -y
           bundle update jekyll        
       - name: Setup Pages
         uses: actions/configure-pages@v3
