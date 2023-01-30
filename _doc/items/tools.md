@@ -1,6 +1,6 @@
 ---
 title: Tools
-category: items
+category: Items
 ---
 
 # Tools
