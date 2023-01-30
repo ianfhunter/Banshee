@@ -19,10 +19,10 @@
   </head>
   <body>
     <div class="rpgui-content">
-      <div class="rpgui-container framed-golden" style="width:25%; position:absolute; height: max-content; background-color:lightgray;">
+      <div id="sidebar" class="rpgui-container framed-golden">
         {% include sidebar.html %}
       </div>
-      <div class="rpgui-container framed" style="margin-left:25%;position:absolute;padding-left: 15px;">
+      <div id="content" class="rpgui-container framed">
         {{ content }}
       </div>
     </div>
