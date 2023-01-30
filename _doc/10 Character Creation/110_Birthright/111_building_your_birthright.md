@@ -1,7 +1,7 @@
 ---
-title: Species
-category: Character Creation
-order: 3
+title: Building Your Birthright
+category: Birthright
+order: 1
 ---
 
 # How it works
