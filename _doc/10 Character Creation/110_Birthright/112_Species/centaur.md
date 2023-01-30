@@ -1,5 +1,5 @@
 ---
-Title: Centaur
+title: Centaur
 category: Species
 order: 1
 ---

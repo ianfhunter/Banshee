@@ -1,5 +1,5 @@
 ---
-Title: Harpy
+title: Harpy
 category: Species
 order: 2
 ---

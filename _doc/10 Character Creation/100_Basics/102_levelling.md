@@ -1,5 +1,5 @@
 ---
-Title: Levelling 
+title: Levelling 
 category: Basics
 order: 2
 ---

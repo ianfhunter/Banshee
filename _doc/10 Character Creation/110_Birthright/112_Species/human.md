@@ -1,5 +1,5 @@
 ---
-Title: Human
+title: Human
 category: Species
 order: 1
 ---

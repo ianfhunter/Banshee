@@ -1,6 +1,6 @@
 ---
 title: Weapons
-category: Items
+category: Equipment
 ---
 
 # Weapons

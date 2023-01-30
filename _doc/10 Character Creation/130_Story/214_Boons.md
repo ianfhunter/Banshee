@@ -1,5 +1,5 @@
 ---
-Title: Boons
+title: Boons
 category: Character Creation 
 order: 1
 ---

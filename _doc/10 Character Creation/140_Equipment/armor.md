@@ -1,4 +1,4 @@
 ---
 title: Armor
-category: Items
+category: Equipment
 ---

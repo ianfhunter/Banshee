@@ -1,5 +1,5 @@
 ---
-Title: Skeleton
+title: Skeleton
 category: Template Species
 order: 1
 ---

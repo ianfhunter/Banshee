@@ -1,5 +1,5 @@
 ---
-Title: Selkie
+title: Selkie
 category: Species
 order: 3
 ---

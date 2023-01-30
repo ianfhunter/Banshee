@@ -1,11 +1,6 @@
 ---
-
-layout: default
-
 title: Instruments
-
-category: Items
-
+category: Equipment
 ---
 
 Music instruments come in several categories 

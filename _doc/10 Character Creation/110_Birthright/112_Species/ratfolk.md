@@ -1,5 +1,5 @@
 ---
-Title: Ratfolk
+title: Ratfolk
 category: Species
 order: 3
 ---

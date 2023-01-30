@@ -1,5 +1,5 @@
 ---
-Title: Character Creation
+title: Character Creation
 category: Basics
 order: 1
 ---

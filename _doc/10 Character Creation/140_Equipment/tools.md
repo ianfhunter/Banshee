@@ -1,6 +1,6 @@
 ---
 title: Tools
-category: Items
+category: Equipment
 ---
 
 # Tools
