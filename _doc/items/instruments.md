@@ -4,7 +4,7 @@ layout: default
 
 title: Instruments
 
-category: items
+category: Items
 
 ---
 
