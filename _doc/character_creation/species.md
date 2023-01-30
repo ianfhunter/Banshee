@@ -1,6 +1,7 @@
 ---
 title: Species
 category: Character Creation
+order: 3
 ---
 
 # How it works
