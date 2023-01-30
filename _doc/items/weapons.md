@@ -1,6 +1,6 @@
 ---
 title: Weapons
-category: items
+category: Items
 ---
 
 # Weapons
