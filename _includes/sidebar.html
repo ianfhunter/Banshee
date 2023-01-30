@@ -6,7 +6,7 @@
     <ul>
       {% assign items = cat.items | sort: 'order' %}
       {% for item in items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ item.url | prepend:site.baseurl }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
 {% endfor %}
