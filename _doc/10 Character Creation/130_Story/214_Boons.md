@@ -1,6 +1,6 @@
 ---
 title: Boons
-category: Character Creation 
+category: Story 
 order: 1
 ---
 
