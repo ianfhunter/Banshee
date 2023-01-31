@@ -7,12 +7,6 @@ category: Resources
 
 > Don't fill this out online, Print it as a PDF!
 
-**Name**
-<input placeholder="Cleopatra">
-
-**Level**
-<input placeholder="1">
-
 <table>
   <tr>
     <td>Name</td>
@@ -32,5 +26,16 @@ category: Resources
   <tr>
     <td><input placeholder="Human"></td>
     <td><input placeholder="Barbarian"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>HP</td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><input placeholder="20"></td>
+    <td><input placeholder="10"></td>
   </tr>
 </table>
