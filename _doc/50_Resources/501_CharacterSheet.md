@@ -39,3 +39,22 @@ category: Resources
     <td><input placeholder="10"></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>STR</td>
+    <td>DEX</td>
+    <td>CON</td>
+    <td>WIS</td>
+    <td>INT</td>
+    <td>CHA</td>
+  </tr>
+  <tr>
+    <td><input placeholder="10"></td>
+    <td><input placeholder="10"></td>
+    <td><input placeholder="10"></td>
+    <td><input placeholder="10"></td>
+    <td><input placeholder="10"></td>
+    <td><input placeholder="10"></td>
+  </tr>
+</table>

@@ -6,7 +6,7 @@ order: 1
 
 # Character Creation
 
-1. Get a [Character Sheet](/BansheeRPG/doc/resources/151-charactersheet)
+1. Get a [Character Sheet](/BansheeRPG/doc/resources/501-charactersheet)
 2. Define your character's [Birthright](/BansheeRPG/doc/birthright/111-building-your-birthright)
 3. Choose how your character approaches their [Adventuring Career](/BansheeRPG/doc/career/121-class-choice)
 4. Allocate [Statistic Points](/BansheeRPG/doc/basics/103-vital-stats)
