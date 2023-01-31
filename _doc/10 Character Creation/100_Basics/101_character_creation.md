@@ -6,26 +6,9 @@ order: 1
 
 # Character Creation
 
-**Get a Character Sheet**
-
-e.g. [DiceCloud](https://dicecloud.com/)
-
-**Birthright**
-
-Determine your character's origins
-
-**Career**
-
-Detail your character's approach to adventuring
-
-**Allocate Statistic Points**
-
-Push and Pull where your character's strengths and weaknesses lie
-
-**Pick Equipment**
-
-Gear up!
-
-**Final Details**
-
-Personality, Appearance, And most importantly - A name!
+1. Get a [Character Sheet](/BansheeRPG/doc/resources/151-CharacterSheet)
+2. Define your character's [Birthright](/BansheeRPGdoc/birthright/111-building-your-birthright)
+3. Choose how your character approaches their [Adventuring Career](/BansheeRPG/doc/career/121-class-choice)
+4. Allocate [Statistic Points](/BansheeRPG/doc/basics/103-vital-stats)
+5. Pick out your [Equipment & Supplies](/BansheeRPG/doc/equipment/starting-equipment)
+6. The final details; [your personality, Appearance, And most importantly - A name!](/BansheeRPG/doc/story/131-finishing-touches)

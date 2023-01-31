@@ -3,6 +3,8 @@ title: Instruments
 category: Equipment
 ---
 
+# Instruments
+
 Music instruments come in several categories 
 
 > Please note that these are grouped for simplicity of gameplay, they may not reflect the reality of orchestral groupings, etc.
