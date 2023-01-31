@@ -22,3 +22,6 @@ You have no competencies aside from those you have from your pre-adventuring car
 
 ## 1st Level
 You must choose Class Features as your first choice.
+
+## 20th Level
+The BansheeRPG System currently caps out at the end of the 4th tier, and the 20th level. 
