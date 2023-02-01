@@ -47,9 +47,9 @@ The Centaur can kick direct outwards with their hind legs with a +3 bludgeoning 
     <td></td>
   </tr>
   <tr>    
-    <td></td>
+    <td>󠀠󠀠ㅤ</td>
     <td>💥</td> 
-    <td></td>
+    <td>ㅤ</td>
   </tr>
 </table>
 
