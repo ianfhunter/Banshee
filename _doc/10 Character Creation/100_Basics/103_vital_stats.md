@@ -21,16 +21,29 @@ The average Joe or Jolene has a score of 0 for each of these attributes. The low
 
 ## Skills
 
-### Physical
-**Athletics**
+When you pick a Skill, you choose a categ
 
-Specializations: Sprinting, Swimming, Diving, 
 
-**Acrobatics**
+<!--
+=== 5e Conversions ===
+Athletics -> STR Check
+Acrobatics -> Dex Check
+-->
 
-Speializations: Tumbling, Contortion
+**Subterfuge:** _Pickpocketing, Sneaking, Disguise, Deception_
+**Observation:** _Active Investigation, Passive Perception, Insight_
+**Influence:** _Intimidation, Persuasion, Animal Handling_
+**Art:** _Performance, Craft_
 
-### Knowledge
-**History**
+## Knowledge
+| Domain | Associated Lore |
+| ------ | --------------- |
+| Nature | Plants, Animals, Tracking, Survival |
+| Arcane | Magic, Curses   |
+| Planes | Extraplanar beings, Planes |
+| Religion | Deities, Angels, Rituals |
+| Medicine | Poisons, Antidotes, Diseases, Injuries |
+| Technology | Machines, Constructs |
+| Culture | Art, Music, Societies |
+| History | Prominent Figures, Structures, Lore |
 
-...
