@@ -21,8 +21,7 @@ The average Joe or Jolene has a score of 0 for each of these attributes. The low
 
 ## Skills
 
-When you pick a Skill, you choose a categ
-
+When you pick a Skill, you can choose one category, with one specialization beneath it. A list of recommended specializations are given, but others could also be chosen with approval from your DM
 
 <!--
 === 5e Conversions ===
@@ -30,12 +29,13 @@ Athletics -> STR Check
 Acrobatics -> Dex Check
 -->
 
-**Subterfuge:** _Pickpocketing, Sneaking, Disguise, Deception_
-**Observation:** _Active Investigation, Passive Perception, Insight_
-**Influence:** _Intimidation, Persuasion, Animal Handling_
-**Art:** _Performance, Craft_
+- **Subterfuge:** _Pickpocketing, Sneaking, Disguise, Deception_
+- **Observation:** _Active Investigation, Passive Perception, Insight_
+- **Influence:** _Intimidation, Persuasion, Animal Handling_
+- **Art:** _Performance, Craft_
 
 ## Knowledge
+
 | Domain | Associated Lore |
 | ------ | --------------- |
 | Nature | Plants, Animals, Tracking, Survival |
