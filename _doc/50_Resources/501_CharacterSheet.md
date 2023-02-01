@@ -58,3 +58,53 @@ category: Resources
     <td><input placeholder="10"></td>
   </tr>
 </table>
+
+<h3>Skills</h3>
+<div style="float:left; width: 24.5%">
+  <input class="rpgui-checkbox golden" type="checkbox" checked="" data-rpguitype="checkbox">
+  <label>Subterfuge</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Observation</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Influence</label>
+  <input placeholder="Speciality">
+</div>
+
+<h3>Knowledge</h3>
+<div style="float:left; width: 24.5%">
+  <input class="rpgui-checkbox golden" type="checkbox" checked="" data-rpguitype="checkbox">
+  <label>Nature</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Arcane</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Planes</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Religion</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Medicine</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Technology</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>Culture</label>
+  <input placeholder="Speciality">
+
+  <input class="rpgui-checkbox golden" type="checkbox" data-rpguitype="checkbox">
+  <label>History</label>
+  <input placeholder="Speciality">
+</div>
