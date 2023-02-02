@@ -6,7 +6,7 @@ order: 1
 
 # Centaur
 
-<img class="species-img" src="/BansheeRPG/assets/images/species/centaur.png" style="width:150px;filter:invert(100%)" />
+<img class="species-img" src="/BansheeRPG/assets/images/species/centaur.png" />
 
 <!-- short description -->
 Centaurs are half-human, half-horse creatures. They have the body of a horse and the upper body of a human. There are various tales of how the centaur came to be; from a drunken incident between the nature gods, to a purposeful crafting of the perfect hunting form.
