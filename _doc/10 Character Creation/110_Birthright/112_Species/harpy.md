@@ -5,7 +5,7 @@ order: 2
 ---
 
 # Harpy
-<img src="/BansheeRPG/assets/images/species/harpy.png" style="width:100px" />
+<img class="species-img" src="/BansheeRPG/assets/images/species/harpy.png" />
 
 
 <!-- short description -->
