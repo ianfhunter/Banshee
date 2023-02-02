@@ -24,6 +24,7 @@ category: Equipment
 - Nets
 - Lassoos
 - Whips 
+- Harpoons
 - Bolas
 
 # Martial Arts
