@@ -19,7 +19,7 @@ Centaurs are half-human, half-horse creatures. They have the body of a horse and
 
 Centaurs take up twice the amount of space that a human would, considering their much larger rear end.
 Handheld items, spells and other manipulations are done with the front-facing half (A). 
-A strong kick (see below) can be issued by their hind legs (B). smaller creatures (of a single cell size) may mount a centaur and sit at position (B). This follows the normal rules for [[Mounts]].
+A strong kick (see below) can be issued by their hind legs (B). smaller creatures (of a single cell size) may mount a centaur and sit at position (B). This follows the normal rules for [Mounts](/BansheeRPG/doc/rules/mounts).
 
 <table>
   <tr>
