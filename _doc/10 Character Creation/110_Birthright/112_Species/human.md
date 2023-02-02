@@ -6,14 +6,16 @@ order: 1
 
 # Human
 
-<img src="/BansheeRPG/assets/images/species/human.png" style="width:100px" />
+<img class="species-img" src="/BansheeRPG/assets/images/species/human.png"  />
 
 <!-- short description -->
-Human
+Humans are an adaptable species that come in all sorts of shapes and sizes. More than the other species, Humans have a diverse range of physical, mental and cultural traits.
 
 <!-- always facing northwards -->
 ## Physical 
 **Dimensions:**
+
+Humans take up a single cell.
 
 <table>
   <tr>
@@ -25,12 +27,14 @@ Human
 
 **Affinity:** Civilization
 
-**Attack: Punch**
+**Attack: Punch/Kick** A human can punch and kick as a +1 weapon.
 
 ## Mental
 
 **Languages:** Choose a language
 
+**Adaptable:** Choose a skill group.
+
 ## Culture
 
-Choose a generic culture
+Choose a generic culture.
