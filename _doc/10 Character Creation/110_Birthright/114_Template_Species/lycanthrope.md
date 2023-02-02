@@ -1,5 +1,5 @@
 ---
-title: Skeleton
+title: Lycanthrope
 category: Template Species
 order: 1
 ---
