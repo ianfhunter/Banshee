@@ -1,4 +1,4 @@
-# BansheeRPG
+# BansheeRPG (pre-release)
 
 A fully free to use Tabletop RPG system. Currently a Work In Progress.
 
