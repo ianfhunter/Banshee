@@ -5,7 +5,7 @@ order: 3
 ---
 
 # Selkie
-<img src="/BansheeRPG/assets/images/species/selkie.png" style="width:100px" />
+<img class="species-img" src="/BansheeRPG/assets/images/species/selkie.png"/>
 
 <!-- short description -->
 Selkies change from seals into humans
