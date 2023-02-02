@@ -18,7 +18,12 @@ The harpy is a half-human, half-bird creature. Taloned feet and winged arms give
 
 The Harpy takes up a single cell of space.
 
-[A]
+<table>
+  <tr>
+    <td>A</td>
+  </tr>
+</table>
+  
 
 <!-- Sizes are calculated as if the creature is facing forward and measured breadth by depth. -->
 
