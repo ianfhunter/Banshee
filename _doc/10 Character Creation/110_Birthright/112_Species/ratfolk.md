@@ -6,11 +6,11 @@ order: 3
 
 # Ratfolk
 
-<img src="/BansheeRPG/assets/images/species/rat.png" style="width:100px" />
+<img class="species-img" src="/BansheeRPG/assets/images/species/rat.png" />
 
 
 <!-- short description -->
-Ratfolk are antromorphic rats
+Ratfolk are rodent-like humanoids. They are slender, agile and shorter than the average humanoid species height
 
 <!-- always facing northwards -->
 ## Physical 
@@ -26,10 +26,11 @@ Ratfolk are antromorphic rats
 
 **Affinity:** Nature
 
-**Attack:** Bite
-**Attack:** Claws
-**Climbing/Balance**
-**Thin Spot**
+**Attack:** Bite: A Ratfolk can bite with its maw as a +2 Weapon. It has a chance of inflicting disease.
+**Attack:** Claws: A Ratfolk can attack with its claws as a +2 Weapon. It deals slashing damage
+
+**Climbing/Balance**: A Ratfolk character has a specialization in Balance and Climbing
+**Thin Spot**: Without solid armour, a ratfolk character can squeeze through a hole the size of a football.
 
 ## Mental
 
@@ -37,4 +38,4 @@ Ratfolk are antromorphic rats
 
 ## Culture
 
-**Stealing**
+**Food to Mouth:** Many ratfolk grow up poor and are forced to steal, backstab and worse to survive. They gain the Subterfuge skill.
