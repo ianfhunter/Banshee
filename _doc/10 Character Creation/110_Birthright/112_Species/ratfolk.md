@@ -14,7 +14,7 @@ Ratfolk are rodent-like humanoids. They are slender, agile and shorter than the 
 
 <!-- always facing northwards -->
 ## Physical 
-**Dimensions:**
+### Dimensions
 
 <table>
   <tr>
