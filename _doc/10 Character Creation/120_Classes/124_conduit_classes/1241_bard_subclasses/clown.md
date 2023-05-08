@@ -9,10 +9,10 @@ category: Bard Subclasses
 
 
 <table>
-    <th>
-        <td>Level</td>
-        <td>Features</td>
-    </th>
+    <tr>
+        <th>Level</th>
+        <th>Features</th>
+    </tr>
     <tr>
         <td>2</td>
         <td>Diffuse</td>

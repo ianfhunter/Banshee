@@ -8,10 +8,10 @@ category: Bard Subclasses
 > Whether it be making snakes or bears dance, leading a procession of rats, or having a flock of birds dress you, The Charmer has a unique persuasion over animals - as long as they keep playing.
 
 <table>
-    <th>
-        <td>Level</td>
-        <td>Features</td>
-    </th>
+    <tr>
+        <th>Level</th>
+        <th>Features</th>
+    </tr>
     <tr>
         <td>2</td>
         <td>Animal Direction</td>

@@ -8,10 +8,10 @@ category: Bard Subclasses
 > Oh? Gerald's stuck in a box again...
 
 <table>
-    <th>
-        <td>Level</td>
-        <td>Features</td>
-    </th>
+    <tr>
+        <th>Level</th>
+        <th>Features</th>
+    </tr>
     <tr>
         <td>2</td>
         <td>Illusiory Props</td>

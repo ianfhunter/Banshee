@@ -8,10 +8,10 @@ category: Conduit Classes
 > Through the power of music, prose and other art forms, bards can sway the hearts of crowds.
 
 <table>
-    <th>
-        <td>Level</td>
-        <td>Features</td>
-    </th>
+    <tr>
+        <th>Level</th>
+        <th>Features</th>
+    </tr>
     <tr>
         <td>1</td>
         <td>Source of power, Motivate (d6)</td>
