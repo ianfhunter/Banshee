@@ -29,7 +29,31 @@ A strong kick (see below) can be issued by their hind legs (B). smaller creature
     <td>B</td>
   </tr>
 </table>
-  
+
+Note that due to its odd shape, a Centaur cannot use a shield effectively to guard its rear half. In addition, armour can be more than double the price to customize it for the odd fit.
+
+<table>
+  <tr>
+    <td>🛡️</td>
+    <td>🛡️</td>
+    <td>🛡️</td>
+  </tr>
+  <tr>
+    <td>🛡️</td>
+    <td>A</td>
+    <td>🛡️</td>
+  </tr>
+  <tr>    
+    <td>󠀠󠀠🛡️</td>
+    <td>B</td> 
+    <td>🛡️</td>
+  </tr>
+  <tr>    
+    <td>󠀠󠀠</td>
+    <td></td> 
+    <td></td>
+  </tr>
+</table>
 
 ### Natural Abilities
 

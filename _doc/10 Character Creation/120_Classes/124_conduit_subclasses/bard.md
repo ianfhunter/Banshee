@@ -12,7 +12,7 @@ You know two families of instruments OR `art` tagged tools.
 
 ## Channel Power
 
-## Motivate
+### Motivate
 
 At each tier, you gain a higher level of dice which you can freely give to another player on your turn.
 They may add this dice to an attack or defence roll.
