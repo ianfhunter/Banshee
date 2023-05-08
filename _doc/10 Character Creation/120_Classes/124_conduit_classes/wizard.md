@@ -1,6 +1,6 @@
 ---
 title: Wizard 
-category: Conduit Subclass
+category: Conduit Classes
 ---
 
 # Wizard
@@ -13,20 +13,24 @@ category: Conduit Subclass
         <td>Features</td>
     </th>
     <tr>
-        <td>2</td>
+        <td>1</td>
         <td>Source of power, Scribe</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td>Study</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>10</td>
         <td>Study</td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>15</td>
         <td>Study</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Infinite Knowledge</td>
     </tr>
 </table>
 
@@ -38,3 +42,6 @@ You can create spell scrolls that other party members can use. There is a limit 
 
 ## Study
 You learn another Channel Improvement Power.
+
+## Infinite Knowledge
+You have access to all worldy knowledge. You may ask a DM a question (1/week) and they must respond in truth.

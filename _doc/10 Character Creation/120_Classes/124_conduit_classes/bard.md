@@ -1,6 +1,6 @@
 ---
 title: Bard 
-category: Conduit Subclass
+category: Conduit Classes
 ---
 
 # Bard
@@ -13,27 +13,33 @@ category: Conduit Subclass
         <td>Features</td>
     </th>
     <tr>
-        <td>2</td>
+        <td>1</td>
         <td>Source of power, Motivate (d6)</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td>Motivate (d6)</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>10</td>
         <td>Motivate (d8)</td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>15</td>
         <td>Motivate (d10)</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Fame & Glory</td>
     </tr>
 </table>
 
 ## Source of power
 You know two families of instruments OR `art` tagged tools.
 
-### Motivate
+You must be weilding an instrument to channel magic through it. (TODO: Vocals? Cannot be disarmed)
+
+## Motivate
 
 At each tier, you gain a higher level of dice which you can freely give to another player on your turn.
 
@@ -44,3 +50,8 @@ They may add this dice to an attack or defence roll.
 | 2 | d8 |
 | 3 | d10 |
 | 4 | d12 |
+
+## Fame & Glory
+Your name is known throughout the land and just speaking it can strike fear or hope into someone.
+
+1/day you may strike fear (disadvantage on attacks) or hope (advantage on attacks) to a character you have met for the first time.
