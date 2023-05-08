@@ -41,7 +41,7 @@ Acrobatics -> Dex Check
 | Nature | Plants, Animals, Tracking, Survival |
 | Arcane | Magic, Curses   |
 | Planes | Extraplanar beings, Planes |
-| Religion | Deities, Angels, Rituals |
+| Religion | Deities, Angels, Rituals, Demons |
 | Medicine | Poisons, Antidotes, Diseases, Injuries |
 | Technology | Machines, Constructs |
 | Culture | Art, Music, Societies |

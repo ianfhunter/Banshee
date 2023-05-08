@@ -8,6 +8,9 @@ Weapon Damage:
 - Bludgeoning
 - Slashing
 
+Power Damage:
+- Force
+
 Elemental Types
 - Fire
 - Water
