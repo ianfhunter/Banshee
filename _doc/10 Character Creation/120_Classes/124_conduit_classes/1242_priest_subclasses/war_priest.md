@@ -13,37 +13,45 @@ category: Priest Subclasses
         <th>Features</th>
     </tr>
     <tr>
+        <td>1</td>
+        <td>Salt and Burn</td>
+    </tr>
+    <tr>
         <td>2</td>
-        <td>Blood for the Blood Gods</td>
+        <td>Heavy Bleeding (1)</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>War Frenzy</td>
+        <td>Infectious Frenzy, Heavy Bleeding (2)</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Avatar of War</td>
+        <td>Lasting Wounds, Heavy Bleeding (3)</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Salt and Burn</td>
+        <td>Avatar of War, Heavy Bleeding (4)</td>
     </tr>
 </table>
 
-## Blood for the Blood Gods
-After your weapon draws its first blood in battle, you gain the following benefits:
- - +1 on attack rolls and damage rolls
-
-Alternatively, you can draw your own blood on your weapon to activate this feature
-
-## War Frenzy
-In the heat of battle, you feel the energy of your power course through you. It's a rush. You feel unstoppable.
-
-- If you attack, you must continue to attack
-- You take -1 damage each time you take damage
-
-## Avatar of War
-You gain an aura where all allies within 30ft gain +1 to attack rolls and damage
-
-## Salt and Burn
+## Features
+### Salt and Burn
 Anything you kill cannot be brought back to life or undeath.
+
+### Blood for the Blood Gods
+When you strike an enemy, you can decide to make the strike cause a creature to bleed heavily, causing them to lose 1 health point per turn. They can use an action to stop the bleeding.
+
+This amount increases by one at levels 6,11,16
+
+### Infectious Frenzy
+In the heat of battle, you feel your blood coursing through you. The thrill of battle, The rush. Your thirst for blood is infectous.
+
+Your group gains advantage on initative rolls.
+
+### Lasting Wounds
+Your attacks cause long term damage, creating scars that never fade. 
+
+Your heavy bleeding strikes can only be stemmed with a successful healing check greater than your power DC.
+
+### Avatar of War
+You gain an aura where all allies within 30ft gain +1 to attack rolls and damage
