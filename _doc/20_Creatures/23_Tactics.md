@@ -24,3 +24,12 @@ category: Creatures
 
 *This creature is loyal to another and will obey whatever instructions it has been given. The more loyal of these creatures will try to protect their patron even over its own safety*
 
+
+
+--- 
+
+
+**Name:** Run Screaming
+
+*This creature does not want to fight and will simply flee if they can. They may fight if backed into a corner.*
+

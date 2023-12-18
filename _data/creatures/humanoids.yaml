@@ -5,3 +5,11 @@
     defence: 4
   tags:
   tactics: "Protect & Serve"
+
+- name: Commoner
+  stats:
+    health: 3
+    attack: 2
+    defence: 2
+  tags:
+  tactics: "Run screaming"
