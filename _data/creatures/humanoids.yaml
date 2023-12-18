@@ -1,0 +1,7 @@
+- name: Soldier
+  stats:
+    health: 7
+    attack: 3
+    defence: 4
+  tags:
+  tactics: "Protect & Serve"

@@ -1,0 +1,9 @@
+- name: Warg
+  stats:
+    health: 3
+    attack: 6
+    defence: 3
+  tags:
+  - Fast
+  - Agile
+  tactics: "Guerrila"

@@ -1,0 +1,15 @@
+- name: Goblin
+  stats:
+    health: 4
+    attack: 3
+    defence: 4
+  tags: 
+  tactics: "Playing Dirty"
+
+- name: Goblin Boss
+  stats:
+    health: 8
+    attack: 6
+    defence: 3
+  tags: 
+  tactics: "Playing Dirty"
