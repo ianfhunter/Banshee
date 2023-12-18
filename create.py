@@ -6,7 +6,7 @@ def create_blocks():
         blocks.append(yaml.parse(fn))
         
                  
-    with open("_doc/20_Creatures/21_Blocks.md") as f:
+    with open("_doc/20_Creatures/21_Blocks.md", "w") as f:
         f.write("""
             ---
             title: Creature "Blocks"
