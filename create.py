@@ -21,9 +21,9 @@ def create_blocks():
             **Name:** {b['name']}
              
             | --------- | ----- |
-            | Health    | {b['stat']['health']} |
-            | Attack    | {b['stat']['attack']} |
-            | Defence    | {b['stat']['defence']} |
+            | Health    | {b['stats']['health']} |
+            | Attack    | {b['stats']['attack']} |
+            | Defence    | {b['stats']['defence']} |
     
             **Tags:** {', '.join(b['tags'])}
             **Tactics:** {b['tactics']}
