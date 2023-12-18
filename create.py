@@ -1,9 +1,12 @@
+import glob
 import yaml
 
 def create_blocks():
     blocks = []
-    for fn in "_data/creatures/*.yaml":
-        blocks.append(yaml.parse(fn))
+    for fn in glob.glob("_data/creatures/*.yaml"):  
+        with open(fn, "r") as file:
+            block_data = yaml.safe_load(file)
+            blocks.append(block_data)
         
                  
     with open("_doc/20_Creatures/21_Blocks.md", "w") as f:
@@ -22,7 +25,7 @@ def create_blocks():
             | Attack    | {b['stat']['attack']} |
             | Defence    | {b['stat']['defence']} |
     
-            **Tags:** {b['tags'].join(',')}
+            **Tags:** {', '.join(b['tags'])}
             **Tactics:** {b['tactics']}
             """)
 
