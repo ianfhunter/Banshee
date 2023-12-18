@@ -29,6 +29,7 @@ jobs:
       - name: Generate Data
         run: |
           python create.py
+          cat _doc/20_Creatures/21_Blocks.md
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
