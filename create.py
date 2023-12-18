@@ -1,15 +1,19 @@
 import glob
 import yaml
+import os
+
+script_dir = os.path.dirname(os.path.realpath(__file__))
+
 
 def create_blocks():
     blocks = []
-    for fn in glob.glob("_data/creatures/*.yaml"):  
+    for fn in glob.glob(os.path.join(script_dir, "_data/creatures/*.yaml")):  
         with open(fn, "r") as file:
             block_data = yaml.safe_load(file)
             blocks.extend(block_data)
         
                  
-    with open("_doc/20_Creatures/21_Blocks.md", "w") as f:
+    with open(os.path.join(script_dir, "_doc/20_Creatures/21_Blocks.md"), "w") as f:
         f.write("""
             ---
             title: Creature "Blocks"
@@ -17,6 +21,7 @@ def create_blocks():
             ---
         """)
         for b in blocks: 
+            print(f"Processing '{b['name']}'...")
             f.write(f"""
             **Name:** {b['name']}
              
