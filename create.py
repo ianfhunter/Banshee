@@ -30,6 +30,7 @@ category: Creatures
 | Defence    | {b['stats']['defence']} |
 
 **Tags:** {', '.join(b['tags'] if b['tags'] is not None else "")}
+
 **Tactics:** {b['tactics']}
 
 ---
