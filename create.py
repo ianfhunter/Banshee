@@ -6,7 +6,7 @@ def create_blocks():
     for fn in glob.glob("_data/creatures/*.yaml"):  
         with open(fn, "r") as file:
             block_data = yaml.safe_load(file)
-            blocks.append(block_data)
+            blocks.extend(block_data)
         
                  
     with open("_doc/20_Creatures/21_Blocks.md", "w") as f:
