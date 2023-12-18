@@ -22,4 +22,4 @@ Map: (Made in https://hextml.playest.net/)
 - Bears -> Wolf
 - Dragon -> Goblin Boss
 
-![map.png]
+![/doc/map.png]
