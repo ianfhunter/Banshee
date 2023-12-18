@@ -25,7 +25,7 @@ def create_blocks():
             | Attack    | {b['stats']['attack']} |
             | Defence    | {b['stats']['defence']} |
     
-            **Tags:** {', '.join(b['tags'])}
+            **Tags:** {', '.join(b['tags'] if b['tags'] is not None else "")}
             **Tactics:** {b['tactics']}
             """)
 
