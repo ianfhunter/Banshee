@@ -22,4 +22,4 @@ Map: (Made in https://hextml.playest.net/)
 - Bears -> Wolf
 - Dragon -> Goblin Boss
 
-![Scenario Map](/doc/map.png)
+![Scenario Map](/BansheeRPG/doc/map.png)
